@@ -3,7 +3,8 @@ name: "webwright"
 displayName: "Webwright Browser Agent"
 description: "Terminal-native web agent that drives Playwright browsers to automate web tasks, extract data, fill forms, and produce reusable scripts with screenshot evidence. Code-as-action approach — browsing history becomes a single reusable Python script."
 keywords: ["browser", "web", "playwright", "scraping", "automation", "web-agent", "screenshot", "form", "extract", "navigate", "search", "flights", "booking"]
-author: "Microsoft Research (adapted for Kiro)"
+author: "Joset Santamaria"
+icon: "icon.png"
 ---
 
 # Webwright — Terminal-Native Web Agent for Kiro
