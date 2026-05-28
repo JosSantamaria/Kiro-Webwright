@@ -5,6 +5,7 @@ description: "Terminal-native web agent that drives Playwright browsers to autom
 keywords: ["browser", "web", "playwright", "scraping", "automation", "web-agent", "screenshot", "form", "extract", "navigate", "search", "flights", "booking"]
 author: "Joset Santamaria"
 icon: "icon.png"
+version: "1.0.0"
 ---
 
 # Webwright — Terminal-Native Web Agent for Kiro
