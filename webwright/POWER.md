@@ -1,11 +1,9 @@
 ---
 name: "webwright"
-displayName: "Webwright Browser Agent"
-description: "Terminal-native web agent that drives Playwright browsers to automate web tasks, extract data, fill forms, and produce reusable scripts with screenshot evidence. Code-as-action approach — browsing history becomes a single reusable Python script."
-keywords: ["browser", "web", "playwright", "scraping", "automation", "web-agent", "screenshot", "form", "extract", "navigate", "search", "flights", "booking"]
+displayName: "Automate web tasks with Playwright"
+description: "Terminal-native web agent that drives Playwright browsers to automate web tasks, extract data, fill forms, and produce reusable scripts with screenshot evidence"
+keywords: ["browser", "web", "playwright", "scraping", "automation", "web-agent", "screenshot", "form", "extract", "navigate"]
 author: "Joset Santamaria"
-icon: "icon.png"
-version: "1.0.0"
 ---
 
 # Webwright — Terminal-Native Web Agent for Kiro
@@ -31,7 +29,7 @@ playwright install firefox
 
 ### Step 2: Verify workspace
 
-Webwright creates artifacts in a workspace directory. Ensure you have write access:
+Webwright creates artifacts in a workspace directory:
 
 ```bash
 mkdir -p outputs/webwright
